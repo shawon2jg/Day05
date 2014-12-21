@@ -1,0 +1,5 @@
+G:\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe.config
+G:\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe
+G:\HashtableApp\HashtableApp\bin\Debug\HashtableApp.pdb
+G:\HashtableApp\HashtableApp\obj\Debug\HashtableApp.exe
+G:\HashtableApp\HashtableApp\obj\Debug\HashtableApp.pdb

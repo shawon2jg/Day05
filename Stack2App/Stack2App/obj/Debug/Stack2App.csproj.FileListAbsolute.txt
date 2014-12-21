@@ -1,0 +1,5 @@
+G:\Stack2App\Stack2App\bin\Debug\Stack2App.exe.config
+G:\Stack2App\Stack2App\bin\Debug\Stack2App.exe
+G:\Stack2App\Stack2App\bin\Debug\Stack2App.pdb
+G:\Stack2App\Stack2App\obj\Debug\Stack2App.exe
+G:\Stack2App\Stack2App\obj\Debug\Stack2App.pdb

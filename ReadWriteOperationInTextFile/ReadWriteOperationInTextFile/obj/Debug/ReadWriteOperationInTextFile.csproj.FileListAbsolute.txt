@@ -1,0 +1,27 @@
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 4\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe.config
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 4\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 4\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.pdb
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 4\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 4\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.FileReadWriteUI.resources
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 4\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.Properties.Resources.resources
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 4\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 4\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.exe
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 4\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.pdb
+E:\FTFL - batch 01 - ASP.Net MVC\Day 4. 09-July-2014\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe.config
+E:\FTFL - batch 01 - ASP.Net MVC\Day 4. 09-July-2014\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.exe
+E:\FTFL - batch 01 - ASP.Net MVC\Day 4. 09-July-2014\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.pdb
+E:\FTFL - batch 01 - ASP.Net MVC\Day 4. 09-July-2014\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe
+E:\FTFL - batch 01 - ASP.Net MVC\Day 4. 09-July-2014\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.pdb
+E:\FTFL - batch 01 - ASP.Net MVC\Day 4. 09-July-2014\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.csprojResolveAssemblyReference.cache
+E:\FTFL - batch 01 - ASP.Net MVC\Day 4. 09-July-2014\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.FileReadWriteUI.resources
+E:\FTFL - batch 01 - ASP.Net MVC\Day 4. 09-July-2014\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.Properties.Resources.resources
+E:\FTFL - batch 01 - ASP.Net MVC\Day 4. 09-July-2014\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.csproj.GenerateResource.Cache
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe.config
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.pdb
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.exe
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\bin\Debug\ReadWriteOperationInTextFile.pdb
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.csprojResolveAssemblyReference.cache
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.FileReadWriteUI.resources
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.Properties.Resources.resources
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.csproj.GenerateResource.Cache
+E:\FTFL - batch 02 - ASP.Net MVC\13-Dec-2014\Code and File\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\ReadWriteOperationInTextFile\obj\Debug\ReadWriteOperationInTextFile.exe

@@ -1,0 +1,6 @@
+G:\QueueApp\QueueApp\bin\Debug\QueueApp.exe.config
+G:\QueueApp\QueueApp\bin\Debug\QueueApp.exe
+G:\QueueApp\QueueApp\bin\Debug\QueueApp.pdb
+G:\QueueApp\QueueApp\obj\Debug\QueueApp.csprojResolveAssemblyReference.cache
+G:\QueueApp\QueueApp\obj\Debug\QueueApp.exe
+G:\QueueApp\QueueApp\obj\Debug\QueueApp.pdb

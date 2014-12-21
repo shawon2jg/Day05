@@ -1,0 +1,9 @@
+G:\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.exe.config
+G:\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.exe
+G:\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.pdb
+G:\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csprojResolveAssemblyReference.cache
+G:\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.Form1.resources
+G:\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.Properties.Resources.resources
+G:\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csproj.GenerateResource.Cache
+G:\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.exe
+G:\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.pdb
